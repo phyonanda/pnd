@@ -1,0 +1,286 @@
+﻿မောင်မောင်#NPR က#PONOM ခွေး#NCCS ကို#POOBJ အစာကျွေး#VAC သည်#POVP
+ခွေး#NCCS ကို#POOBJ မမ#NPR က#PONOM အစာကျွေး#VAC သည်#POVP
+ခွေး#NCCS ကို#POOBJ ကောင်းမင်းခန့်#NPR က#PONOM အစာကျွေး#VAC သည်#POVP
+မမ#NPR က#VAC နေသည်#POVP
+ရန်ကုန်#NPR က#PODEP ထွက်လာ#VAC သည်#POVP
+ရန်ကုန်#NPR က#POPLA အိမ်#NCCP ဖြစ်သည်#POVP
+ရထား#NCCS သုံးနာရီ#TT က#POT ရောက်#VST သည်#POVP
+သူမ#PRO ၏#POPOS ပါး#NCCS သည်#PONOM ဖြူဖွေး#VST သည်#POVP
+သူမ#PRO ၏#POPOS စာအုပ်#NCCS သည်#PONOM အလွန်#ADVQ ပါး#VST သည်#POVP
+အောက်ပါ#PRDEM ဆောင်းပါး#NCCS ကို#POOBJ ဖတ်#VAC ပါ#PAVTF
+ခက်ဆစ်အဓိပ္ပာယ်#NCPU များ#PAIDNUM ကို#POOBJ လေ့လာ#VAC ပါ#PAVTF
+ကမ္ဘာ#NPR ပေါ်ရှိ#POPLA လူမျိုး#NCCP အသီးသီး#ADJA တွင်#POPLA ကိုယ်ပိုင်အနုပညာ#NCPU ရှိ#VST သည်#POVP
+အနုပညာ#NABQ သည်#PONOM ကမ္ဘာ့လူမျိုး#NCCP အသီးသီး#ADJA နှင့်#POCOM ဆက်သွယ်#VCP ရာ၌#POPLA မိတ္တဗလမဏ္ဍိုင်#NCPS အဖြစ်#NV အလွန်#ADVQ အရေးပါ#VCP သည်#POVP 
+လူမျိုး#NCCP တစ်မျိုး#PRNQ ၏#POPOS အနုပညာ#NABQ ကို#POOBJ လေ့လာကြည့်#VCP လျှင်#COS ထို#PRDEM လူမျိုး#NCCP ၏#POPOS ယဥ်ကျေးမှု#NABQ အဆင့်အတန်း#NCPS ကို#POOBJ ခန့်မှန်း#VCP နိုင်#PAVF သည်#PAVF 
+မြန်မာ့အနုပညာ#NCPU သည်#PONOM အခြေအမြစ်#NCPU နှင့်#POCOM စနစ်တကျ#ADVC တိုးတက်လာသော#ADJQ ပညာ#NABQ ဖြစ်#VST သည်#POVP
+သဘင်#NCCP ၊#SM အဆို#NABQ ၊#SM အပြော#NABQ ၊#SM အက#NABQ တို့#PAIDNUM ကို#POOBJ စည်းစနစ်#NCPU ကျနစွာ#ADVC လေ့လာသင်ကြား#VCP ရသကဲ့သို့#PANSA ဂီတသီချင်း#NCPS ၊#SM အတီးအမှုတ်ပညာ#NABQ ကို#POOBJ လည်း#PANSU အခြေခံ#NABQ မှ#PODEP စ#VAC ကာ#COM စနစ်တကျ#ADVC တက်မြောက်#VST နိုင်#PAVF သည်#POVP
+ဆိုင်းတူရိယာ#NCPS သည်#PONOM မြန်မာ#NPR တို့#PAIDNUM အဖို့#POINT ဂုဏ်ယူဖွယ်ရာ#ADJQ ကိုယ်ပိုင်တူရိယာ#NCPS ဖြစ်#VST သည်#POVP
+ဆိုင်းဝိုင်း#NCPS ကို#POOBJ အခမ်းအနား#NCPU များ#PAIDNUM တွင်#POPLA အသုံးပြု#VCP သည်#POVP
+လမ်းလျှောက်ရင်း#ADVM တီးမှုတ်နိုင်သော#ADJQ ဒိုးပတ်ဝိုင်း#NCPS နှင့်#COW အိုးစည်ဝိုင်း#NCPS တို့#PAIDNUM သည်#PONOM မြန်မာ့ဆိုင်းဝိုင်းကြီး#NCPS ၏#POPOS အခက်အလက်#NABQ များ#PAIDNUM ဖြစ်#VST သည်#POVP
+ဆိုင်းဝိုင်း#NCPS ဟုခေါ်ခြင်း#PANSU အကြောင်းမှာ#PONOM ပန်းပြားကြီး#NCPS ရှစ်ခု#ADJQU ကို#POOBJ ဝိုင်း#VAC ၍#COS ပတ်လုံးများ#NCPP ၌#POPLA ပါရှိသော#ADJQ ကြိုး#NCCP ဖြင့်#POACC ချည်နှောင်#VAC ကာ#COS ဆိုင်းထား#VAC ရသောကြောင့်#POREA ဖြစ်#VST သည်#POVP
+ဆိုင်းဝိုင်း#NCPS ကို#POOBJ ပတ်ဝိုင်း#NCPS ဟု#NAF လည်း#PANSU ခေါ်#VAC သည်#POVP
+ပတ်ဝိုင်း#NCPS ၏#POPOS အဓိပ္ပာယ်#NABQ မှာ#PONOM ပတ်လုံးများ#NCPP ကို#POOBJ ဝိုင်းဖွဲ့#VCP ထားခြင်း#PANPC ပင်#PANSU ဖြစ်#VST သည်#POVP 
+ဆိုင်းဝိုင်း#NCPS ဖွဲ့စည်း#VCP ထား#PAVPC ပုံ#PAVPC မှာ#PONOM မှန်စီရွှေချ#VCP ထား#PAVPC သော#PAADJC ပန်းပြားကြီး#NCPS ရှစ်ခု#ADJQU ကို#POOBJ ဆက်စပ်ဝိုင်းဖွဲ့#VCP ကာ#COS ဗုံများ#NCCP ကို#POOBJ ချိတ်ဆွဲ#VCP ထား#PAVPC သည်#POVP 
+ပန်းပြားကြီး#NCPS တစ်ခု#ADJQU လျှင်#COS အကျယ်#NCCS နှစ်ပေ#ADJQU ခန့်#PADNUM ရှိ#VST သည်#POVP
+ပန်းပြားကြီး#NCPS ရှစ်ခု#ADJQU အနက်#POSEP တစ်ခု#PRNQ တွင်#POPLA ဆိုင်းဆရာ#NCCS ဝင်#VAC ရန်#POINT ထွက်#VAC ရန်#POINT အပေါက်#NCCS တစ်ပေါက်#PRNQ ရှိ#VST သည်#POVP
+ထို#ADJDEM အပေါက်#NCCS ကို#POOBJ မင်းပေါက်#NCPS ဟု#NAF ခေါ်#VAC သည်#POVP 
+ဆိုင်းဝိုင်း#NCPS ၏#POPOS အဝန်း#NCCS မှာ#PONOM တစ်ဆယ့်ငါးပေ#PRNQ နှင့်#COW ဆယ်လက်မခွဲ#PRNQ ရှိ#VST သည်#POVP
+ဆိုင်းဝိုင်း#NCPS ၏#POPOS အမြင့်#NCCS မှာ#PONOM ခြေထောက်#NCCS အပါအဝင်#PADNUM နှစ်ပေရှစ်လက်မ#PRNQ ခန့်#PADNUM ရှိ#VST သည်#POVP
+ပတ်လုံးများ#NCCP ကို#POOBJ ဆွဲချိတ်#VCP ရာ၌#COS ပတ်လုံး#NCCS နှင့်#COW ပတ်ပြားတို့#NCCP မ#PAVN ထိကပ်#VCP ရ#VAF လေ#PAVTF အောင်#COM ပန်းပြား#NCCS အတွင်း၌#POPLA ကြိမ်#NCCS နှင့်#COW သံ#NCU ကို#POOBJ ယှက်#VAC ၍#COS ခံ#VAC ထား#PAVPC သည်#POVP ။#SM 
+၄င်း#PRDEM ကို#POOBJ ပတ်ခံ#NCPS ဟူ၍#PANSU လည်းကောင်း#COW ၊#SM ပတ်ခေါင်းအုံး#NCPS ဟူ၍#PANSU လည်းကောင်း#COW ခေါ်#VAC သည်#POVP 
+ပတ်ဝိုင်း#NCCS ၏#POPOS ပန်းပြားထိပ်များ#NCCP တွင်#POPLA ဖန်ပဒိုင်း#NCCS ခေါ်#ADVC ဖန်အိုးရောင်စုံများ#NCCP ကို#POOBJ တပ်ဆင်#VCP လေ့#VAF ရှိ#VST သည်#POVP ။#SM 
+ဆိုင်းဝိုင်းအဖွဲ့တစ်ဖွဲ့#NCCS ၌#POPLA တီးမှုတ်သူ#NCCS ခုနှစ်ယောက်#PRNQ မှ#PODEP ဆယ်ယောက်#PRNQ ကျော်#PADNUM အထိ#POARR ပါဝင်#VCP ပါ#NAF သည်#POVP ။#SM
+၄င်း#PRDEM တို့#PAIDNUM မှာ#PONOM ဆိုင်းဆရာ#NCCS ၊#SM ကြေးတီး#NCCS ၊#SM ပတ်မတီး#NCCS ၊#SM နှဲဆရာ#NCCS ၊#SM လက်ထောက်ပတ်မတီး#NCCS ၊#SM စည်းတီး#NCCS ၊#SM ဝါးတီး#NCCS တို့#PAIDNUM ဖြစ်#VST သည်#POVP ။#SM 
+ဆိုင်းဝိုင်းကြီးများ#NCCP တွင်#POPLA မူ#NAF ထို#ADJDEM ခုနှစ်ဦး#ADJQU အပြင်#COM နှဲငယ်#NCCS နှစ်လက်#ADJQU ၊#SM မောင်း#NCCS နှင့်#COW ဝါးတီးများ#NCCP ကို#POOBJ တိုးချဲ့ထည့်သွင်း#VCP ထား#PAVPC သည်#POVP ။#SM 
+မြန်မာ့ဆိုင်းဝိုင်းအဖွဲ့#NCPS တွင်#POPLA ပတ်ဝိုင်းတီးသူ#NCCS ကို#POOBJ ဆိုင်းဆရာ#NCCS ၊#SM ဆိုင်းဝိုင်းဆရာ#NCCS ၊#SM ပတ်တီးခေါင်းဆောင်#NCCS ဟု#NAF ခေါ်#VAC သည်#POVP 
+ရှေးအခါ#ADVT က#POT ရွာစား#VCP ရ#VAF သည့်#PAADJC ဆိုင်းဆရာ#NCCS ကို#POOBJ ရွာစား#NCCS ဟု#VAF ခေါ်#VAC သည်#POVP ။#SM
+နောက်ပိုင်းခေတ်#NCPU များ#PAIDNUM တွင်#POT မူ#NAF ဆိုင်းဆရာ#NCCS အားလုံး#ADJQU ကို#POOBJ ရွာ#NCCS မ#PAVN စား#VAC ရ#VAF သော်လည်း#COM ရွာစား#NCCS ဟု#VAF သာ#NAF ခေါ်#VAC တော့#ADVM သည်#POVP ။#SM 
+ဆိုင်းဝိုင်း#NCCS စီစဥ်ထားပုံ#VCP မှာ#PONOM ရှေ့တန်း#NCPS တွင်#POPLA ဆိုင်းဆရာ#NCCS ၊#SM ကြေးတီး#NCCS နှင့်#COW ပတ်မတီး#NCCS တို့#PAIDNUM ထိုင်#VAC နေ#PAVPC ကြ#PAVS သည်#POVP ။#SM 
+နောက်တန်း#NCPS တွင်#POPLA ကျန်အဖွဲ့သားများ#NCLP ထိုင်#VAC ကြ#PAVS ရ#VAC သည်#POVP
+တီးဝိုင်းသားများ#NCLP အပြင်#ADJA နောက်ထများ#NCLP လည်း#PANSU နှစ်ယောက်#ADJQU မှ#PODEP သုံးယောက်#ADJQU အထိ#POARR ပါဝင်#VAC သည်#POVP
+နောင်အခါမှ#ADVT ဆိုင်းဆရာ#NCCS က#PONOM ပရိသတ်#NCCP ကို#POOBJ အဆိုအပြော#NABQ ဖြင့်#POACC ဖျော်ဖြေမှု#NABQ ရှိ#VAF လာ#VAF သည်#POVP        
+မြန်မာတိုင်းရင်းသားတို့#NCLP သည်#PONOM မွေးဖွား#VAC သည့်#PAADJC အချိန်#NABQ မှစ၍#PODEP ကွယ်လွန်#VAC သည့်#PAADJC အချိန်#NABQ တိုင်အောင်ဆိုင်း#NCCS ကို#POOBJ နှစ်သက်စွာ#ADVC အသုံးပြု#VAC ကြ#PAVS သည်#POVP ။#SM 
+တီးမှုတ်နည်း#NCPS တို့#PAIDNUM မှာ#PONOM သာရေးနာရေး#NCPS အကြောင်းကိစ္စ#NCPU ကို#POOBJ လိုက်၍#COS အမျိုးမျိုး#ADVQ ရှိ#POVP ပြန်#VAF သည်#POVP 
+မြန်မာ့တူရိယာများ#NCPP သည်#PONOM ပင်လယ်ရပ်ခြားတိုင်းတစ်ပါး#NCPS သို့#PODIR လွန်ခဲ့သော#ADJQ နှစ်ပေါင်း#NABQ တစ်ရာ#ADJQU ကျော်လောက်#PADNUM က#POT စ#VAC ၍#COS ရောက်ပေါက်#VCP ခဲ့#PAVP2P သည်#POVP
+မြန်မာ့တူရိယာတို့#NCCP အနက်#POSEP ဆိုင်းဝိုင်း#NCPS ကို#POOBJ တိုင်းတစ်ပါးသား#NCPS တို့#PAIDNUM အထူး#ADVQ စိတ်ဝင်စား#VAC ကာ#COS နှစ်သက်ချီးကျူး#VAC ကြ#PAVS သည်#POVP 
+ကမ္ဘာ့လူမျိုး#NCCP တိုင်း#ADJA တွင်#POPLA ကိုယ်ပိုင်အနုပညာ#NCPU ရှိ#VST သည်#POVP သကဲ့သို့#COS မြန်မာလူမျိုး#NPR တို့#PAIDNUM တွင်#POPLA လည်း#COW ကိုယ်ပိုင်အနုပညာ#NCPU ရှိ#VST သည်#POVP
+ပုသိမ်ထီး#NCPS လုပ်ငန်း#NABQ သည်#PONOM မြန်မာ့လက်မှုပညာ#NCCP တစ်ရပ်#ADJQU ဖြစ်သည်#POVP ။#SM 
+ထို#ADJDEM ဝါး#NCCS သည်#PONOM ထီး#NCCS လုပ်#VAC ရန်#POINT အကောင်းဆုံး#ADJQ ဝါး#NCCS ဖြစ်#VST သည်#POVP ။#SM
+ပုသိမ်ထီး#NCPS တစ်လက်#ADJQU လုပ်#VAC မည်#POVP ဆိုသော်#COS ထီးရိုး#NCPS ၊#SM ထီးခရိုင်#NCPS ၊#SM ထီးရွက်တို့#NCCP ရှိ#VAF ရ#NAF သည်#POVP ။#SM
+ထို့အပြင်#COM ထီးရွက်#NCCS ကပ်#VAC ရန်#POINT ထီးလက်တံ#NCPS ခေါ်#VAC ဝါးစိတ်ငယ်များ#NCCP လည်း#COW ရှိ#VAF ရ#NAF သည်#POVP ။#SM
+ထီးရိုး#NCCS ၊#SM ထီးခရိုင်တို့#NCCP ကို#POOBJ ဝါး#NCCS ဖြင့်#POACC ပြုလုပ်#VAC ၍#COS ထီးရွက်#NCPS ကို#POOBJ ပိတ်#NCCS ဖြင့်#POACC ပြုလုပ်#VAC ရ#NAF သည်#POVP ။#SM
+ဝါး#NCCS ကို#POOBJ ခွဲ#VAC ၍#COS ထီးခရိုင်#NCCS ၊#SM ထီးလက်တံတို့#NCCP လုပ်#VAC ရန်#POINT ဓား#NCCS ဖြင့်#POACC ချောမွတ်#ADJQ အောင်#COM အချောသပ်#VCP ရ#NAF သည်#POVP ။#SM
+ထို့နောက်#COM ထီးခရိုင်များ#NCPP နှင့်#COW ထီးလက်တံဝါးစိတ်ငယ်များ#NCPP ကို#POOBJ ထီးရိုး#NCPS နှင့်#COW တွဲ#VST မိ#VAC အောင်#COM စနစ်တကျ#ADVC တပ်ဆင်#VAC ရ#NAF သည်#POVP ။#SM
+ထိုအခါ#COS ထီးပုံ#NCPS အကြမ်းထည်#NCPS ရ#NAF လာ#VAF သည်#POVP ။#SM
+နောက်မှ#ADVT ပုံကျအောင်#ADJQ ညှပ်ထား#VAC သော#PAADJC ပိတ်ကွက်#NCCS ဖြင့်#POACC ထီးလက်တံများ#NCCP အပေါ်မှ#POPLA အုပ်#VAC ၍#COS တင်းတင်း#ADVTW ဆွဲကပ်#VCP ရ#NAF သည်#POVP ။#SM
+ထို#ADJDEM ထီးပိတ်သား#NCPU ကို#POOBJ လှပအောင်#ADJQ ဆေးရောင်#NCPS တို့#PAIDNUM ဖြင့်#POACC ပန့်ပွင့်ပန်းနွယ်#NCPU များ#PAIDNUM ရေးခြယ်#VCP ကြ#PAVS သည်#POVP ။#SM
+ရှေးအခါက#ADVT ခရိုင်ပန်း#NCCS ထိုး#VAC ရာ၌#COS သိုးမွေးချည်#NCPU ဖြင့်#POACC ထိုးရက်#VCP သည်#POVP ။#SM
+ယခုအခါတွင်မူ#ADVT တိုင်းရင်း#NCCP ဖြစ်#VAF ဆေးရောင်စုံ#NCPU ဝါဂွမ်းချည်#NCPU ကို#POOBJ သာ#PANSU အသုံးပြု#VAC ကြ#PAVS သည်#POVP ။#SM
+ပုသိမ်ထီး#NCPS သည်#PONOM ဆောင်း#VAC ရာ၌#COS ပေါ့ပါး#VCP သည်#POVP ။#SM
+ကလေးများ#NCCP သည်#PONOM ဖြူစင်သော#ADJQ စိတ်ထား#NABQ ကို#POOBJ ပိုင်ဆိုင်#VST ကြ#PAVS သည်#POVP ။#SM
+သော်တာ#NPR သည်#PONOM ငယ်စဉ်အခါက#ADVT အကြောင်း#NABQ များ#PAIDNUM ကို#POOBJ အမှတ်တရ#NABQ ဖြစ်ကာ#COM လွမ်းဆွတ်တမ်းတသတိရ#VCP နေ#PAVPC သည်#POVP ။#SM
+မိခိုင်#NPR နှင့်#COW မောင်ကျော်#NPR တို့#PAIDNUM ဈေး#NCCS မှာ#POPLA အမှတ်မထင်#ADVC ဆုံတွေ့#VCP ကြ#PAVS သည်#POVP ။#SM
+မောင်ကျော်#NPR က#PONOM မိခိုင်#NPR ကို#POOBJ လှမ်း#VAC ၍#COW အော်ခေါ်#VAC ကာ#VAF နှုတ်ဆက်#VAC သည်#POVP ။#SM
+မောင်ကျော်#NPR နှင့်#COW မိခိုင်#NPR တို့#PAIDNUM သည်#PONOM အလွန်#ADVQ ရင်းနှီး#VST ခဲ့#PAVP2 ကြ#PAVS သည်#POVP ။#SM
+လှလှ#NPR သည်#PONOM မိဘ#NCLS စကား#NABQ နားထောင်#VAC သော#PAADJC သမီးလိမ္မာ#NCPS တစ်ဦး#ADJQU ဖြစ်#VAF သည်#POVP ။#SM
+လူ#NCCS တိုင်း#PANA က#PONOM လှလှ#NPR ကို#POOBJ ကိုယ်ကျင့်တရား#NABQ ကောင်းမွန်သော#ADJQ ကလေး#NCCP တစ်ဦး#PRNQ အဖြစ်#VCP ချစ်ခင်#VAC ကြ#PAVS သည်#POVP ။#SM
+ကိုအေး#NPR သည်#PONOM ရပ်ကွက်#NCLS ၏#POPOS လေးစားအားထားရသော#ADJQ လူငယ်ခေါင်းဆောင်#NCPS တစ်ဦး#ADJQU ဖြစ်#VAF သည်#POVP ။#SM 
+နှလုံးသား#NCCS ကို#POOBJ လည်း#PANSU အေးမြ#ADJQ စေ#VAF သည်#POVP ။#SM
+မြင်သူအပေါင်း#NCCP ကို#POOBJ ကျေနပ်#ADJQ စေ#VAF သည်#POVP ။#SM
+ဂုဏ်ကျက်သရေ#NABQ တို့#PAIDNUM ကို#POOBJ ပတ်ဝန်းကျင်#NCLP အား#POACCP မျှဝေပေး#VAC သည်#POVP ။#SM
+လူ#NCCP ကို#POOBJ လည်း#PANSU အကျိုးရှိ#NV စေ#VAF သည်#POVP ။#SM
+လောကကြီး#NCCS ကို#POOBJ အလှဆင်#VAC ပေး#VAF သည်#POVP ။#SM 
+နွေ#NCCS ၊#SM မိုး#NCCS ၊#SM ဆောင်းဥတု#NCPS (၃)#SYM မျိုး#ADJQU ရှိ#VAF သည်#POVP ။#SM
+သူ#PRDEM က#PONOM ဆောင်းဥတု#NCPS ကို#POOBJ နှစ်သက်#VAC သည်#POVP ။#SM
+မောင်မောင်#NPR က#PONOM နွေရာသီ#NCPS ကို#POOBJ သဘောကျ#VCP သည်#POVP ။#SM
+တေးသံသာများ#NCCP နားဆင်#VAC ရ#VAF သည်#PONOM ကို#POOBJ ဦးဘ#NPR နှစ်သက်#VST ၏#POVP ။#SM 
+ကလေးများ#NCCP သည်#PONOM ဖြူစင်သော#ADJQ စိတ်ထားပိုင်ရှင်များ#NCCP ဖြစ်#VAF သည်#POVP ။#SM
+ကြည့်#VAC ၍လည်း#COS လှ#VST သည်#POVP ။#SM
+ကျက်သရေ#NABQ လည်း#PANSU ရှိ#VAF သည်#POVP ။#SM
+သို့ရာတွင်#ADVT ပုသိမ်ထီး#NCCS ကို#POOBJ ‌နွေ#NABQ နှင့်#COW ဆောင်းရာသီ#NCPU ၌#POT သာ#PANSU ဆောင်း#VAC နိုင်#PAVF ၍#COM မိုးရာသီ#NCPU ၌#POT မ#PAVN ဆောင်း#VAC နိုင်#PAVF ချေ#POVP ။#SM
+သို့ဖြစ်၍#COM ပုသိမ်ထီး#NCCS ကို#POOBJ အသုံး#NV နည်းလာ#ADVC ပြီးနောက်#COS ပုသိမ်ထီး#NCCS အစား#NV ဥတု#NCCS သုံးပါး#ADJQU စလုံး#ADJA ဆောင်း#VAC နိုင်#PAVF သော#PAADJC ထီး#NCCS အမျိုးမျိုး#NCPU ကို#POOBJ အသုံးများ#VAC လာ#VAF ကြ#PAVS သည်#POVP ။#SM
+ဆရာ#NCU ဖတ်ပြ#VCP သည့်အခါ#ADVT သေချာစွာ#ADVC နားထောင်#VCP ပါ#PAVTF
+မြန်မာ#NPR တို့#PAIDNUM ၏#POPOS ကိုယ်ပိုင်အတီးတူရိဟာ#NCPS မှာ#PONOM ဆိုင်း#NCCP ဖြစ်#VST သည်#POVP
+နောက်ထများ#NCPP အနက်#POSEP အဆိုကောင်း#NCPS တစ်ယောက်#ADJQU ၊#SM အပြောကောင်း#NCPS တစ်ယောက်#ADJQU ၊#SM အသောကောင်း#NCPS တစ်ယောက်#ADJQU ပါတတ်#VCP မြဲ#VAF ဖြစ်သည်#POVP
+ပတ်ဝိုင်း#NCPS နှင့်#COW ဆိုင်းဝိုင်း#NCPS တို့#PAIDNUM သည်#PONOM သဘော#NABQ ခြင်း#PANPC တူ#VST သော်လည်း#COM ယခုအခါ#ADVT တွင်#POT ဆိုင်းဝိုင်း#NCPS ဟု#NAF ဆို#VAC လိုက်#VAF လျှင်#COS ပတ်ဝိုင်းကြီး#NCPS အပါအဝင်#VCP ၄င်း#PRDEM နှင့်အတူ#POCOM တွဲဖက်တီးမှုတ်#VCP ရ#PAVS သော#NAF တူရိယာများ#NCCP ပါဝင်#VCP သည့်#PAADJC အတီး#NV ၊#SM အမှုတ်အဖွဲ့#NCPS တစ်ခုလုံး#PRNA ကို#POOBJ ဆိုလို#VST ကြောင်း#COM နားလည်#VCP ကြ#PAVS သည်#POVP
+ပုသိမ်မြို့#NPR အနီးတစ်ဝိုက်#POPLA တွင်#POPLA သရကူ#NPR ခေါ်#VAC ဝါး#NCCS တစ်မျိုး#ADJQU အများအပြား#ADJA ထွက်#VAC သည်#POVP ။#SM
+ခရိုင်တံများ#NCPP ကို#POOBJ လည်း#PANSU ဆေးရောင်စုံချည်မျှင်များ#NCPP နှင့်#POCOM ထိုးရက်#VAC ၍#COS လှပ#ADJQ အောင်#COM ပြင်ဆင်#VCP ကြ#PAVS သည်#POVP ။#SM
+ထို#ADJDEM ပုသိမ်ထီး#NCPS ကို#POOBJ အောက်မြန်မာပြည်#NCPS ပင်လယ်ဆိပ်ကမ်းမြို့#NCPS ဖြစ်#VST သော#PAADJC ပုသိမ်မြို့#NPR တွင်#POPLA စတင်လုပ်ကိုင်#VCP ခဲ့#VAF သောကြောင့်#COS ပုသိမ်ထီး#NCPS ဟု#PANSU အမည်တွင်#VCP ခဲ့#VAF သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM ညောင်တုန်းမြို့#NPR အထက်တန်းကုန်သည်#NCCP ဦးပန်#NPR ဒေါ်မြစ်#NPR တို့#PAIDNUM ၏#POPOS သား#NCCS ဖြစ်#VST သည်#POVP ။#SM 
+၁၉၀၂#CN ခုနစ်#NABQ တွင်#POT ဖွားမြင်#VAC သည်#POVP ။#SM
+မွေးချင်း‌#NCCS ခြောက်ယောက်#ADJQU အနက်#POSEP အထွေးဆုံး#ADJQ ဖြစ်#VST သည်#POVP ။#SM 
+ညောင်တုန်းမြို့#NPR အင်္ဂလိပ်#NPR မြန်မာ#NPR နှစ်ဘာသာ#ADJQU သင်#VAC အစိုးရအလယ်တန်းကျောင်း#NCCS ၊#SM စတုတ္ထတန်း#NCCS တွင်#POPLA ပညာ#NABQ ဆည်းပူး#VCP စဉ်အခါက#COS ပုံဆွဲဆရာ#NCCS ဦးချွန်ဆိုင်#NPR မှာ#PONOM သူ#PRO ၏#POPOS ဆရာရင်း#NCCS ဖြစ်#VST သည်#POVP ။#SM
+မောင်ဘဂျမ်း#NPR ကလေး#NCCS ၏#POPOS ပန်းချီအစွမ်းအစ#NCPU ကို#POOBJ အကဲခတ်#VAC မိ#VST သဖြင့်#COM ဦးချွန်ဆိုင်#NPR သည်#PONOM သူ့#PRO ကို#POOBJ အမြဲ#ADVT ချီးကျူးအားပေး#VCP လေ့#VST ရှိသည်#POVP ။#SM
+ငယ်စဉ်ကပင်#ADVT ပန်းချီပညာ#NABQ ကို#POOBJ ထူးထူးခြားခြား#ADVTW ဝါသနာပါ#VST ၍#COS မိမိ#PRDEM မုန့်ဖိုး#NCPU ဖြင့်#POACC မြေဖြူ#NCCS ၀ယ်#VAC ကာ#COM ကျောက်သင်ပုန်းများ#NCPP အိမ်ထရံများ#NCPP တွင်#POPLA စစ်တိုက်ပုံ#NCCS ၊#SM ကျားပစ်ပုံ#NCCS ၊#SM အဝေးပျံလာသောငှက်ပုံ#NCCS စသည်တို့#NAF ကို#POOBJ ဆွဲ#VAC လေ့#VST ရှိသည်#POVP ။#SM
+ထိုသို့#COM ဆွဲ#VAC ရ#VAF မှ#COM ထို#PRDEM နေ့#NCCS အဖို့#POINT အသက်ရှူ#VAC ဖြောင့်#ADJQ သည်#PONOM ဟု#COS ပြော#VAC သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR ကောလိပ်ကျောင်း#NCPS သို့#PODIR ရောက်#VST သောအခါ#COM စာသင်ခန်း#NCCS တွင်#POPLA မိမိ#PRDEM ရှေ့ထိုင်#VAC သော#PAADJC ကျောင်းသူများ#NCLP ၏#POPOS ဆံထုံးပုံအမျိုးမျိုး#NCPU ၊#SM ၀တ်စားဆင်ယင်ပုံအမျိုးမျိုး#NCPU ၊#SM ကိုယ်နေဟန်ထားအမျိုးမျိုး#NCPU တို့#PAIDNUM ကို#POOBJ လေ့လာရေးဆွဲ#VCP လေ့#VAF ရှိသည်#POVP ။#SM
+မိဘများ#NCLP က#PONOM ဦးဘဂျမ်း#NPR အား#POACCP အစိုးရရာထူးကြီးများ#NCPP ကို#POOBJ ရည်မှန်း#VAC ၍#COM ကောလိပ်ပညာ#NABQ ကို#POOBJ သင်ယူစေ#VCP သော်လည်း#COM ဦးဘဂျမ်း#NPR က#PONOM မူ#PANSU ပုံဆွဲခြင်း#NV ၊#SM သီချင်းဆိုခြင်း#NV ၊#SM တယောထိုးခြင်း#NV ၊#SM အင်္ဂလိပ်စာ#NCCS နှင့်#COW မြန်မာစာပေ#NCCS လေ့‌လာခြင်း#NV တို့#PAIDNUM ထက်#COS ပို၍#ADVC စိတ်၀င်စား#VST သဖြင့်#COS ဒုတိယနှစ်ဥပစာတန်း#NCCS အထိ#POARR သာ#NAF ပညာသင်ယူ#VAC ပြီး#COW ၁၉၂၈#CN ခုနစ်#NABQ တွင်#POT တက္ကသိုလ်#NCLS မှ#PODEP ထွက်လိုက်#VAC သည်#POVP ။#SM
+၁၉၂၉#CN ခုနစ်#NABQ ခန့်#ADJA တွင်#POT အတွင်း၀န်များရုံး#NPR ၌#POPLA စာရေး#NCCS အဖြစ်#NAF လုပ်ကိုင်#VAC ခဲ့#PAVP2 သည်#POVP ။#SM
+သို့သော်#COM သူ#PRDEM သည်#PONOM အနုပညာသမား#NCCS ပီပီ#ADVTW တီထွင်ကြံစမှု#NABQ ၊#SM လွတ်လပ်မှုတို့#NCPP ကို#POOBJ မြတ်နိုးသူ#NCCS ဖြစ်#VST ရ#VAF ကား#COS ရုံးအလုပ်#NCPU ၌#POPLA စိတ်#NABQ မ#PAVN ၀င်စား#VAC ဘဲ#PAVN ငြီးငွေ့#VST လာ#VAF သည်#POVP ။#SM
+ထို့ကြောင့်#COM မကြာခင်#ADVT လခစားအလုပ်#NCCS ကို#POOBJ ကျောခိုင်း#VAC ၍#COW ပန်းချီလောက#NABQ အတွင်းသို့#ADVC ခြေစုံပစ်၀င်#VAC ကာ#COW ကာတွန်းများ#NCPU ကို#POOBJ ရေးဆွဲ#VAC လေ#VAF သည်#POVP ။#SM
+အစတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+သို့သော်လည်း#COM သူ#PRDEM မ#PAVN ဖြုံ#VST ။#SM
+အရာရှိကြီးများ#NCCP ဖြစ်#VST သော#PAADJC သူ့#PRO အစ်ကိုများ#NCLP ၏#POPOS ဘ၀#NABQ ကို#POOBJ လည်း#PANSU သူ#PRO မ#PAVN မက်#VST ။#SM
+သူ#PRO ဝါသနာပါရာ#NABQ မြတ်နိုးရာ#NABQ ပန်းချီအလုပ်#NABQ ကို#POOBJ လုပ်#VAC နေ#PAVPC ရ#VAF လျှင်#COW အလွန်#ADVC ကျေနပ်#VCP သည်#POVP ။#SM
+ကြိုးစားမှု#NV ၊#SM လေ့လာမှု#NV ၊#SM စိတ်၀င်စားမှု#NV တို့#PAIDNUM ကြောင့်#POREA သူ#PRO ၏#POPOS ကာတွန်းလက်ရာများ#NCPU မှာ#PONOM ထူးခြားပြောင်မြောက်#ADVC လာကာ#COS ထွန်းသစ်စ#ADVC ကာတွန်းဆရာ#NCCS တစ်ယောက်#ADJQU အဖြစ်#NAF ဖြင့်#COM တစ်စတစ်စ#ADVC အသိအမှတ်ပြုခြင်း#NABQ ကို#POOBJ ခံရ#VAF လေ#VAF သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR ၏#POPOS ကာတွန်းများ#NCCP သည်#PONOM ၁၉၃၀#CN ပြည့်နှစ်#NCPU မှစ၍#COW ရန်ကုန်ဂေဇက်အင်္ဂလိပ်သတင်းစာ#NPR ၊#SM ဒီးဒုတ်ဂျာနယ်#NPR ၊#SM ရယ်ရွှင်ဖွယ်မဂ္ဂဇင်း#NPR ၊#SM သူရိယမဂ္ဂဇင်း#NPR ၊#SM သူရိယသတင်းစာ#NPR စသည်တို့#NAF တွင်#POPLA ပါ၀င်#VST လာ#VAF သည်#POVP ။#SM
+သူ#PRDEM ၏#POPOS ဇာတ်ကောင်များ#NCCP မှာ#PONOM ဦးဖျောက်ဆိတ်#NPR ၊#SM ချာရာဏသီ#NPR မှ#POSEP မောင်မြေဇာ#NPR ၊#SM ကိုပြုံး#NPR ၊#SM မပြုံး#NPR ၊#SM ကြွက်ဖြူကလေး#NPR တို့#PAIDNUM ဖြစ်သည်#POVP ။#SM
+သူ#PRO ၏#POPOS ကာတွန်းများ#NCPU မှာ#PONOM စာ#NABQ နှင့်#COS ယဉ်တွဲ#VCP ၍#COW သရုပ်ဖော်#VAC သော#PAADJC ကာတွန်း#NABQ မျိုး#NAF ဖြစ်သည်#POVP ။#SM
+ကာတွန်း#NABQ ဆွဲ#VAC ရာတွင်#COS ရယ်ရွှင်ဖွယ်#NV သက်သက်#ADVM အတွက်#POINT ရေးဆွဲ#VAC သော#PAADJC ကာတွန်းများ#NCCP အပြင်#COM ကလေးပုံပြင်#NCCS သရုပ်ဖော်#VAC ကာတွန်းများ#NCCP ၊#SM ပြုပြင်ရေး#NV ဘက်#NAF သို့#PODIR ဦးတည်#VST သော#PAADJC ကာတွန်းများ#NCCP ၊#SM လူထုခံစားချက်များ#NABQ နှင့်#COW လွတ်လွတ်လပ်လပ်#ADVTW တင်ပြသော#ADJQ ကာတွန်းများ#NCCP ပါ၀င်#VST သည်#POVP ။#SM
+ကာတွန်း#NABQ ရေးဆွဲ#VAC ရာ၌#COM အမှုမဲ့#NV ၊#SM အမှတ်မဲ့#NV သာမန်ကာ#ADVC လျှံကာ#ADVC မ#PAVN ရေးဆွဲ#VAC ၊#SM ဇာတ်ဆောင်များ#NCCP အသက်၀င်#VST နေအောင်#COM ရေးဆွဲ#VAC သည့်#PAADJC အပြင်#COM ဇာတ်ဆောင်#NCCS တစ်ဦးချင်း#ADJA စီ#NAF ၏#POPOS စိတ်ဓာတ်များ#NABQ သီးခြားပေါ်လွင်#ADJQ စေရန်#POINT ကိုလည်း#PANSU အထူး#ADVC ဂရုပြု#VST သည်#POVP ။#SM
+သူ့ဇာတ်ဆောင်များ#NCCP ၏#POPOS ပျော်ရွှင်ခြင်း#NABQ ၊#SM ၀မ်းနည်းခြင်း#NABQ ၊#SM ဒေါသဖြစ်ခြင်း#NABQ တို့#PAIDNUM ပေါ်လွင်#VST အောင်#VAF ရေးဆွဲ#VAC နိုင်#VAF သဖြင့်#COS သူ့ကာတွန်းများ#NCCP သည်#PONOM ဂုဏ်မြောက်#ADJQ သည်#PONOM ဟု#VAF ဆိုနိုင်#VAC သည်#POVP ။#SM
+ပုံ၀တ္ထုဇာတ်လမ်းများ#NCCP ကို#POOBJ ရုပ်ပုံ#NCCS နှင့်#COW သရုပ်ဖော်စရာ#NV ရှိ#POVP လျှင်#COM ရုပ်ပုံများ#NCCP ကို#POOBJ မ#PAVN ရေးဆွဲ#VAC မီ#VAF ထို#ADJDEM ဇာတ်လမ်း#NCCS ကို#POOBJ စူးစူးစိုက်စိုက်#ADVM ဖတ်#VAC ပြီး#PAVPP မှ#VAF ရေးဆွဲ#VAC လေ့#VAF ရှိသည်#POVP ။#SM
+ထို့ကြောင့်#COM သူ#PRO ရေးဆွဲ#VAC သည့်#PAADJC ဇာတ်လမ်းရုပ်ဖော်ပုံများ#NCCP သည်#PONOM ဇာတ်လမ်း#NCCS နှင့်#POCOM လိုက်ဖက်#VST သည်#POVP ။#SM
+ခေါင်းစီးစာများ#NCLP သည်#PONOM ကာတွန်း#NABQ နှင့်#POCOM အံကိုက်#VST သည်#POVP ။#SM
+ခေါင်းစီးများ#NCLP ရေး#VAC ရာ#VAF တွင်#POPLA ထိမိ#VST လှ#PAVF သည့်#PAADJC စကားလုံးများ#NCCP ကို#POOBJ ရွေးချယ်သုံးစွဲ#VCP တတ်#VAF သည်#POVP ။#SM
+ခေတ်အဆက်ဆက်#ADVT ပြောင်း#VST သွား#VAF သော်လည်း#COM သူ#PRO ၏#POPOS ကာတွန်းများ#NCCP သည်#PONOM ခေတ်မီ#VST လျက်#COS ပင်#VAF ရှိ#VST သည်#POVP ။#SM
+အဘယ်ကြောင့်ဆိုသော်#COS သူ#PRO ၏#POPOS အတွေးအခေါ်#NABQ မှာ#PONOM သဘာဝကျခြင်း#NABQ ကြောင့်#POREA ဖြစ်#VST သည်#POVP ။#SM
+၁၉၃၄#CN ခုနှစ်#NABQ တွင်#POT သာမန်ကာတွန်း#NABQ မှ#POSEP တစ်ဆင့်#ADVC တက်#VAC ၍#COS ကြက်တောင်ကွ#NPR ဟူသော#NAF ကာတွန်းရုပ်ရှင်#NCPS ကို#POOBJ ပဲရော့ကုမ္ပဏီ#NPR အတွက်#POINT ဦးဟိန်စွန်း#NPR နှင့်အတူ#POCOM ရေးဆွဲရိုက်ကူး#VCP သည်#POVP ။#SM
+ထို#ADJDEM နှစ်#NCCS တွင်#POT ပင်#NAF အသူရာကာတွန်းရုပ်ရှင်#NPR ကို#POOBJ လည်း#PANSU ရေးဆွဲရိုက်ကူး#VCP သေး#VAF သည်#POVP ။#SM
+ကာတွန်းရုပ်ရှင်#NCPS ရေးဆွဲရိုက်ကူးနည်း#NV ကို#POOBJ ဦးဘဂျမ်း#NPR တို့#PAIDNUM သည်#PONOM မြင်#VAC လည်း#PANSU မ#PAVN မြင်#VAC ဖူး#VAF ၊#SM သင်ကြားပေးမည့်သူ#NV လည်း#PANSU မ#PAVN ရှိ#VST သဖြင့်#COM မိမိ#PRPOS တို့#PAIDNUM ဘာသာ#VAF တီထွင်လုပ်ကိုင်#VCP ကြ#PAVS ရလေ#VAF သည်#POVP ။#SM
+ထို#ADJDEM ခေတ်#NCCS ထိုအခါ#ADVT က#PONOM စံချိန်#NABQ နှင့်#POCOM ကြည့်#VAC သော်#VAF သူတို့#PRL ဖန်တီး#VAC ထား#VAF သော#PAADJC ကာတွန်းရုပ်ရှင်ကားများ#NCLP ၏#POPOS အဆင့်အတန်း#NABQ မှာ#PONOM မ#PAVN နိမ့်ကျ#ADJQ ဟု#VAF သိ#VST ရသည်#POVP ။#SM
+ကာတွန်းပန်းချီပညာ#NABQ ၌#POPLA ဦးဘဂျမ်း#NPR ဤသို့#ADJQ ပြောင်မြောက်ခြင်း#NABQ မှာ#PONOM ပင်ကိုစွမ်းရည်#NCPU ကြောင့်#POREA ဖြစ်#VST သည်#POVP ။#SM
+သင်တန်းများ#NCLP တွင်#POPLA လုံ့လ#NABQ ရှိရှိ#ADVTW ဖြင့်#POREA အစဉ်တစိုက်#ADVC တက်ရောက်သင်ကြား#VAC သည်#POVP ။#SM
+ဂုဏ်ပြု#VAC သောအားဖြင့်#COM မေမေ#NCCS က#PONOM ညီလေး#NCCS ကို#POOBJ ဆုချ#VAC သည်#POVP ။#SM
+ထို့ကြောင့်#COM ပန်းချီလောက#NCPU တွင်#POPLA သူ့#PRO အား#POACC ကြည်ညိုချစ်ခင်သူ#NCCP ပေါများ#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM ၁၉၅၃#CN ခုနှစ်#NABQ အသက်#NABQ ငါးဆယ့်တစ်နှစ်အရွယ်#NCLS တွင်#POT ကွယ်လွန်#VAC သည်#POVP ။#SM
+သူ#PRO ၏#POPOS စွမ်းရည်#NABQ ကို#POOBJ ဂုဏ်ပြု#VAC သောအားဖြင့်#COM နိုင်ငံတော်အစိုးရ#NCLP က#PONOM ၁၉၅၄#CN ခုနှစ်#NABQ တွင်#POT အလင်္ကာကျော်စွာဘွဲ့#NCCS ကို#POOBJ ပေးအပ်ချီးမြှင့်#VCP သည်#POVP ။#SM
+သူ#PRO နေထိုင်#VAC သွား#VAF သော#PAIDNUM ရန်ကုန်မြို့#NPR ၁၃#CN လမ်း#NCCS ကို#POOBJ ဦးဘဂျမ်း#NPR ဟု#VAF ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ထို့အပြင်#COM လမ်းသူလမ်းသားများ#NCLP နှင့်#COW ကာတွန်းဆရာများ#NCLP က#PONOM ဦးဘဂျမ်း#NPR ကို#POOBJ အမှတ်ရ#VAC သောအားဖြင့်#COS နှစ်စဉ်#ADVT ဂုဏ်ပြု#VAC ကြ#PAVS သည်#POVP ။#SM 
+နောက်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+နှစ်ကုန်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+နှစ်လယ်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+နှစ်ဦးပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+လကုန်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+သူ#PRO နေထိုင်#VCP သွား#VAF သော#PAADJC ရန်ကုန်မြို့#NPR ၁၃#CN လမ်း#NCCS ကို#POOBJ ဦးဘဂျမ်းလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဗိုလ်ချုပ်အောင်ဆန်း#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+သူ#PRO နေထိုင်#VCP သွား#VAF သော#PAADJC ထို#PRDEM လမ်း#NCCS ကို#POOBJ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+အနော်ရထာဘုရင်မင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ အနော်ရထာလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ကျန်စစ်သားမင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ကျန်စစ်သားလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+အလောင်းဘုရားဘုရင်မင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ အလောင်းဘုရားလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဘုရင့်နောင်မင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ဘုရင့်နောင်လမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ဇော်ဂျီလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဤ#PRDEM လမ်း#NCCS ၏#POPOS အမည်#NABQ မှာ#PONOM သာယာဝတီမင်းကြီးလမ်း#NPR ဖြစ်သည်#POVP ။#SM
+ဤ#PRDEM လမ်း#NCCS ကို#POOBJ သာယာဝတီမင်းကြီးလမ်း#NPR ဟု#VAF ခေါ်#VAC သည်#POVP ။#SM 
+၎င်း#PRDEM လမ်း#NCCS ၏#POPOS အမည်#NABQ မှာ#PONOM ယောမင်းကြီးလမ်း#NPR ဖြစ်သည်#POVP ။#SM
+ယင်း#PRDEM လမ်း#NCCS ၏#POPOS အမည်#NABQ မှာ#PONOM ခေတ္တာလမ်း#NPR ဖြစ်သည်#POVP ။#SM
+ထို့ကြောင့်#COM လူကြိုက်များ#ADJQ သည်#POVP ။#SM
+သို့သော်#COM အားပေးမှု#NABQ ကို#POOBJ မ#PAVS ရရှိ#VST ခဲ့#PAVP2 ပေ#POVP ။#SM
+သို့ဖြစ်၍#COM အောင်မြင်#ADJQ ခဲ့#PAVP2 သည်#POVP ။#SM
+မောင်မောင်#NPR ကြိုးစား#VAC သဖြင့်#COM အောင်မြင်#ADJQ ခဲ့#PAVP2 သည်#POVP ။#SM 
+အားကုန်ထုတ်#VAC ကာ#COW ကြိုးစား#VAC သောကြောင့်#POREA အောင်မြင်#ADJQ ခဲ့#PAVP2 သည်#POVP ။#SM 
+လူတို့#NCLP နေထိုင်#VAC ရာ#VAF ဤ#ADJDEM လောက#NPR ကို#POOBJ အကျိုးပြု#VST သွား#VAF ခဲ့#PAVP2 သည်#POVP ။#SM
+အများအကျိုး#NABQ ဆောင်ရွက်#VAC ကာ#COW ကိုယ်ကျိုး#NABQ အောင်#VST ခဲ့#PAVP2 လေ#VAF သည်#POVP ။#SM
+၅#CN ယောက်#PRNQ ရှိ#VST သည်#PONOM အနက်#POSEP ၃‌#CN ယောက်#PRNQ မှာ#PONOM မိန်းကလေးများ#NCLP ဖြစ်#VST ကြ#PAVS သည်#POVP ။#SM 
+အနော်ရထာလမ်း#NPR တွင်#POPOS သူ#PRO နေထိုင်#VAC သည်#POVP ။#SM
+သရုပ်ဆောင်များ#NCLP သည်#PONOM ဇာတ်လမ်း#NCCS နှင့်#POCOM ကိုက်ညီ#VST သည်#POVP ။#SM
+ဦးဘဇော်#NPR ၊#SM ဦ်းဘဉာဏ်#NPR ၊#SM ဦးငွေကိုင်#NPR ၊#SM ဦးအုန်းလွင်#NPR စသော#PANSU ပန်းချီကျော်တို့#NCLP ထံ#NCCS မှ#PODEP နည်းနာနိဿယ#NABQ တို့#PAIDNUM ကို#POOBJ လေ့လာဆည်းပူးမှု#NV ပါ#VST သည်#POVP ။#SM
+ပန်းချီအသင်း#NCCS က#PONOM ကြီးမှူးကျင်းပ#VCP သော#PAADJC သင်တန်းများ#NCLP တွင်#POPLA လုံ့လ#NABQ ရှိရှိ#ADVTW ဖြင့်#POREA အစဉ်တစိုက်#ADVC တက်ရောက်သင်ကြားမှု#NV တို့ကြောင့်#POREA လည်း#PANSU ဖြစ်#VST သည်#POVP ။#SM
+ဦးချွန်ဆိုင်#NPR ၁၀တန်း#NCCS ကို#POOBJ နှစ်ချင်းပေါက်#NCPU အောင်မြင်#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM ပန်းချီအနုပညာ#NABQ တိုးတက်ရေး#NV အတွက်#POINT ထို#ADJDEM ပန်းချီအသင်း#NCLP တွင်#POPLA သာမန်အမှုဆောင်#NCCS အဖြစ်#NCPU ဆောင်ရွက်#VAC သည်#POVP ။#SM
+ပန်းချီပညာ#NABQ ဆည်းပူးလိုသူများ#NCLP ကို#POOBJ လည်း#PANSU မြေတောင်မြှောက်ပေး#VST သည့်#PAADJC အနေဖြင့်#NAF ဂရုတစိုက်#ADVM သင်ကြားပြသ#VAC သည်#POVP ။#SM
+တန်ဆောင်မုန်းလ#NPR မီးထွန်းပွဲ#NCCS ကျင်းပ#VAC သည်#POVP ။#SM
+အတွင်းရေးမှူး#NCCS အဖြစ်#NCPU လည်း#PANSU နှစ်#NCCS အတော်ကြာ#ADJQ ဆောင်ရွက်#VAC သည်#POVP ။#SM
+ကာတွန်းရုပ်ပုံကားချပ်များ#NCLP ရေးခြယ်ချိတ်ဆွဲ#VAC ကာ#COW မီးထွန်း#VAC ကြ#PAVS လေ#VAF သည်#POVP ။#SM
+ကိုကို#NPR သည်#PONOM မြေတောင်မြှောက်ပေး#VCP သည့်#PAADJC အနေဖြင့်#NAF ဂရုတစိုက်#ADVM သင်ကြားပြသ#VAC သည်#POVP ။#SM
+ပန်းချီကျော်တို့#NCLP ထံ#NCCS မှ#PODEP နည်းနာနိဿယ#NABQ တို့#PAIDNUM ကို#POOBJ လေ့လာဆည်းပူးမှု#NV ပါ#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM လေးစားအပ်သော#ADJQ ပညာရှင်#NCCS တစ်ဦး#ADJQU ပင်#NAF ဖြစ်#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM ညောင်တုန်းမြို့#NPR အထက်တန်းကုန်သည်#NCCP ဦးပန်#NPR ဒေါ်မြစ်#NPR တို့#PAIDNUM ၏#POPOS သား#NCCS ဖြစ်#VST သည်#POVP ။#SM
+၁၉၀၂#CN ခုနစ်#NABQ တွင်#POT ဖွားမြင်#VAC သည်#POVP ။#SM
+မွေးချင်း‌#NCCS ခြောက်ယောက်#ADJQU အနက်#POSEP အထွေးဆုံး#ADJQ ဖြစ်#VST သည်#POVP ။#SM 
+ညောင်တုန်းမြို့#NPR အင်္ဂလိပ်#NPR မြန်မာ#NPR နှစ်ဘာသာ#ADJQU သင်#VAC အစိုးရအလယ်တန်းကျောင်း#NCCS ၊#SM စတုတ္ထတန်း#NCCS တွင်#POPLA ပညာ#NABQ ဆည်းပူး#VCP စဉ်အခါက#COS ပုံဆွဲဆရာ#NCCS ဦးချွန်ဆိုင်#NPR မှာ#PONOM သူ#PRO ၏#POPOS ဆရာရင်း#NCCS ဖြစ်#VST သည်#POVP ။#SM
+မောင်ဘဂျမ်း#NPR ကလေး#NCCS ၏#POPOS ပန်းချီအစွမ်းအစ#NCPU ကို#POOBJ အကဲခတ်#VAC မိ#VST သဖြင့်#COM ဦးချွန်ဆိုင်#NPR သည်#PONOM သူ့#PRO ကို#POOBJ အမြဲ#ADVT ချီးကျူးအားပေး#VCP လေ့#VST ရှိသည်#POVP ။#SM
+ငယ်စဉ်ကပင်#ADVT ပန်းချီပညာ#NABQ ကို#POOBJ ထူးထူးခြားခြား#ADVTW ဝါသနာပါ#VST ၍#COS မိမိ#PRDEM မုန့်ဖိုး#NCPU ဖြင့်#POACC မြေဖြူ#NCCS ၀ယ်#VAC ကာ#COM ကျောက်သင်ပုန်းများ#NCPP အိမ်ထရံများ#NCPP တွင်#POPLA စစ်တိုက်ပုံ#NCCS ၊#SM ကျားပစ်ပုံ#NCCS ၊#SM အဝေးပျံလာသောငှက်ပုံ#NCCS စသည်တို့#NAF ကို#POOBJ ဆွဲ#VAC လေ့#VST ရှိသည်#POVP ။#SM
+ထိုသို့#COM ဆွဲ#VAC ရ#VAF မှ#COM ထို#PRDEM နေ့#NCCS အဖို့#POINT အသက်ရှူ#VAC ဖြောင့်#ADJQ သည်#PONOM ဟု#COS ပြော#VAC သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR ကောလိပ်ကျောင်း#NCPS သို့#PODIR ရောက်#VST သောအခါ#COM စာသင်ခန်း#NCCS တွင်#POPLA မိမိ#PRDEM ရှေ့ထိုင်#VAC သော#PAADJC ကျောင်းသူများ#NCLP ၏#POPOS ဆံထုံးပုံအမျိုးမျိုး#NCPU ၊#SM ၀တ်စားဆင်ယင်ပုံအမျိုးမျိုး#NCPU ၊#SM ကိုယ်နေဟန်ထားအမျိုးမျိုး#NCPU တို့#PAIDNUM ကို#POOBJ လေ့လာရေးဆွဲ#VCP လေ့#VAF ရှိသည်#POVP ။#SM
+မိဘများ#NCLP က#PONOM ဦးဘဂျမ်း#NPR အား#POACCP အစိုးရရာထူးကြီးများ#NCPP ကို#POOBJ ရည်မှန်း#VAC ၍#COM ကောလိပ်ပညာ#NABQ ကို#POOBJ သင်ယူစေ#VCP သော်လည်း#COM ဦးဘဂျမ်း#NPR က#PONOM မူ#PANSU ပုံဆွဲခြင်း#NV ၊#SM သီချင်းဆိုခြင်း#NV ၊#SM တယောထိုးခြင်း#NV ၊#SM အင်္ဂလိပ်စာ#NCCS နှင့်#COW မြန်မာစာပေ#NCCS လေ့‌လာခြင်း#NV တို့#PAIDNUM ထက်#COS ပို၍#ADVC စိတ်၀င်စား#VST သဖြင့်#COS ဒုတိယနှစ်ဥပစာတန်း#NCCS အထိ#POARR သာ#NAF ပညာသင်ယူ#VAC ပြီး#COW ၁၉၂၈#CN ခုနစ်#NABQ တွင်#POT တက္ကသိုလ်#NCLS မှ#PODEP ထွက်လိုက်#VAC သည်#POVP ။#SM
+၁၉၂၉#CN ခုနစ်#NABQ ခန့်#ADJA တွင်#POT အတွင်း၀န်များရုံး#NPR ၌#POPLA စာရေး#NCCS အဖြစ်#NAF လုပ်ကိုင်#VAC ခဲ့#PAVP2 သည်#POVP ။#SM
+သို့သော်#COM သူ#PRDEM သည်#PONOM အနုပညာသမား#NCCS ပီပီ#ADVTW တီထွင်ကြံစမှု#NABQ ၊#SM လွတ်လပ်မှုတို့#NCPP ကို#POOBJ မြတ်နိုးသူ#NCCS ဖြစ်#VST ရ#VAF ကား#COS ရုံးအလုပ်#NCPU ၌#POPLA စိတ်#NABQ မ#PAVN ၀င်စား#VAC ဘဲ#PAVN ငြီးငွေ့#VST လာ#VAF သည်#POVP ။#SM
+ထို့ကြောင့်#COM မကြာခင်#ADVT လခစားအလုပ်#NCCS ကို#POOBJ ကျောခိုင်း#VAC ၍#COW ပန်းချီလောက#NABQ အတွင်းသို့#ADVC ခြေစုံပစ်၀င်#VAC ကာ#COW ကာတွန်းများ#NCPU ကို#POOBJ ရေးဆွဲ#VAC လေ#VAF သည်#POVP ။#SM
+အစတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+သို့သော်လည်း#COM သူ#PRDEM မ#PAVN ဖြုံ#VST ။#SM
+အရာရှိကြီးများ#NCCP ဖြစ်#VST သော#PAADJC သူ့#PRO အစ်ကိုများ#NCLP ၏#POPOS ဘ၀#NABQ ကို#POOBJ လည်း#PANSU သူ#PRO မ#PAVN မက်#VST ။#SM
+သူ#PRO ဝါသနာပါရာ#NABQ မြတ်နိုးရာ#NABQ ပန်းချီအလုပ်#NABQ ကို#POOBJ လုပ်#VAC နေ#PAVPC ရ#VAF လျှင်#COW အလွန်#ADVC ကျေနပ်#VCP သည်#POVP ။#SM
+ကြိုးစားမှု#NV ၊#SM လေ့လာမှု#NV ၊#SM စိတ်၀င်စားမှု#NV တို့#PAIDNUM ကြောင့်#POREA သူ#PRO ၏#POPOS ကာတွန်းလက်ရာများ#NCCP မှာ#PONOM ထူးခြားပြောင်မြောက်#ADVC လာကာ#COS ထွန်းသစ်စ#ADVC ကာတွန်းဆရာ#NCCS တစ်ယောက်#ADJQU အဖြစ်#NAF ဖြင့်#COM တစ်စတစ်စ#ADVC အသိအမှတ်ပြုခြင်း#NABQ ကို#POOBJ ခံရ#VAF လေ#VAF သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR ၏#POPOS ကာတွန်းများ#NCCP သည်#PONOM ၁၉၃၀#CN ပြည့်နှစ်#NCPU မှစ၍#COW ရန်ကုန်ဂေဇက်အင်္ဂလိပ်သတင်းစာ#NPR ၊#SM ဒီးဒုတ်ဂျာနယ်#NPR ၊#SM ရယ်ရွှင်ဖွယ်မဂ္ဂဇင်း#NPR ၊#SM သူရိယမဂ္ဂဇင်း#NPR ၊#SM သူရိယသတင်းစာ#NPR စသည်တို့#NAF တွင်#POPLA ပါ၀င်#VST လာ#VAF သည်#POVP ။#SM
+သူ#PRDEM ၏#POPOS ဇာတ်ကောင်များ#NCCP မှာ#PONOM ဦးဖျောက်ဆိတ်#NPR ၊#SM ချာရာဏသီ#NPR မှ#POSEP မောင်မြေဇာ#NPR ၊#SM ကိုပြုံး#NPR ၊#SM မပြုံး#NPR ၊#SM ကြွက်ဖြူကလေး#NPR တို့#PAIDNUM ဖြစ်သည်#POVP ။#SM
+သူ#PRO ၏#POPOS ကာတွန်းများ#NCCP မှာ#PONOM စာ#NABQ နှင့်#COS ယဉ်တွဲ#VCP ၍#COW သရုပ်ဖော်#VAC သော#PAADJC ကာတွန်း#NABQ မျိုး#NAF ဖြစ်သည်#POVP ။#SM
+ကာတွန်း#NABQ ဆွဲ#VAC ရာတွင်#COS ရယ်ရွှင်ဖွယ်#NV သက်သက်#ADVM အတွက်#POINT ရေးဆွဲ#VAC သော#PAADJC ကာတွန်းများ#NCCP အပြင်#COM ကလေးပုံပြင်#NCCS သရုပ်ဖော်#VAC ကာတွန်းများ#NCCP ၊#SM ပြုပြင်ရေး#NV ဘက်#NAF သို့#PODIR ဦးတည်#VST သော#PAADJC ကာတွန်းများ#NCCP ၊#SM လူထုခံစားချက်များ#NABQ နှင့်#COW လွတ်လွတ်လပ်လပ်#ADVTW တင်ပြသော#ADJQ ကာတွန်းများ#NCCP ပါ၀င်#VST သည်#POVP ။#SM
+ကာတွန်း#NABQ ရေးဆွဲ#VAC ရာ၌#COM အမှုမဲ့#NV ၊#SM အမှတ်မဲ့#NV သာမန်ကာ#ADVC လျှံကာ#ADVC မ#PAVN ရေးဆွဲ#VAC ၊#SM ဇာတ်ဆောင်များ#NCCP အသက်၀င်#VST နေအောင်#COM ရေးဆွဲ#VAC သည့်#PAADJC အပြင်#COM ဇာတ်ဆောင်#NCCS တစ်ဦးချင်း#ADJQU စီ#NAF ၏#POPOS စိတ်ဓာတ်များ#NABQ သီးခြားပေါ်လွင်#ADJQ စေရန်#POINT ကိုလည်း#PANSU အထူး#ADVC ဂရုပြု#VST သည်#POVP ။#SM
+သူ့ဇာတ်ဆောင်များ#NCCP ၏#POPOS ပျော်ရွှင်ခြင်း#NABQ ၊#SM ၀မ်းနည်းခြင်း#NABQ ၊#SM ဒေါသဖြစ်ခြင်း#NABQ တို့#PAIDNUM ပေါ်လွင်#VST အောင်#VAF ရေးဆွဲ#VAC နိုင်#VAF သဖြင့်#COS သူ့ကာတွန်းများ#NCCP သည်#PONOM ဂုဏ်မြောက်#ADJQ သည်#PONOM ဟု#VAF ဆိုနိုင်#VAC သည်#POVP ။#SM
+ပုံ၀တ္ထုဇာတ်လမ်းများ#NCCP ကို#POOBJ ရုပ်ပုံ#NCCS နှင့်#COW သရုပ်ဖော်စရာ#NV ရှိ#POVP လျှင်#COM ရုပ်ပုံများ#NCCP ကို#POOBJ မ#PAVN ရေးဆွဲ#VAC မီ#VAF ထို#ADJDEM ဇာတ်လမ်း#NCCS ကို#POOBJ စူးစူးစိုက်စိုက်#ADVM ဖတ်#VAC ပြီး#PAVPP မှ#VAF ရေးဆွဲ#VAC လေ့#VAF ရှိသည်#POVP ။#SM
+ထို့ကြောင့်#COM သူ#PRO ရေးဆွဲ#VAC သည့်#PAADJC ဇာတ်လမ်းရုပ်ဖော်ပုံများ#NCCP သည်#PONOM ဇာတ်လမ်း#NCCS နှင့်#POCOM လိုက်ဖက်#VST သည်#POVP ။#SM
+ခေါင်းစီးစာများ#NCLP သည်#PONOM ကာတွန်း#NABQ နှင့်#POCOM အံကိုက်#VST သည်#POVP ။#SM
+ခေါင်းစီးများ#NCLP ရေး#VAC ရာ#VAF တွင်#POPLA ထိမိ#VST လှ#PAVF သည့်#PAADJC စကားလုံးများ#NCCP ကို#POOBJ ရွေးချယ်သုံးစွဲ#VCP တတ်#VAF သည်#POVP ။#SM
+ခေတ်အဆက်ဆက်#ADVT ပြောင်း#VST သွား#VAF သော်လည်း#COM သူ#PRO ၏#POPOS ကာတွန်းများ#NCCP သည်#PONOM ခေတ်မီ#VST လျက်#COS ပင်#VAF ရှိ#VST သည်#POVP ။#SM
+အဘယ်ကြောင့်ဆိုသော်#COS သူ#PRO ၏#POPOS အတွေးအခေါ်#NABQ မှာ#PONOM သဘာဝကျခြင်း#NABQ ကြောင့်#POREA ဖြစ်#VST သည်#POVP ။#SM
+၁၉၃၄#CN ခုနှစ်#NABQ တွင်#POT သာမန်ကာတွန်း#NABQ မှ#POSEP တစ်ဆင့်#ADVC တက်#VAC ၍#COS ကြက်တောင်ကွ#NPR ဟူသော#NAF ကာတွန်းရုပ်ရှင်#NCPS ကို#POOBJ ပဲရော့ကုမ္ပဏီ#NPR အတွက်#POINT ဦးဟိန်စွန်း#NPR နှင့်အတူ#POCOM ရေးဆွဲရိုက်ကူး#VCP သည်#POVP ။#SM
+ထို#ADJDEM နှစ်#NCCS တွင်#POT ပင်#NAF အသူရာကာတွန်းရုပ်ရှင်#NPR ကို#POOBJ လည်း#PANSU ရေးဆွဲရိုက်ကူး#VCP သေး#VAF သည်#POVP ။#SM
+ကာတွန်းရုပ်ရှင်#NCPS ရေးဆွဲရိုက်ကူးနည်း#NV ကို#POOBJ ဦးဘဂျမ်း#NPR တို့#PAIDNUM သည်#PONOM မြင်#VAC လည်း#PANSU မ#PAVN မြင်#VAC ဖူး#VAF ၊#SM သင်ကြားပေးမည့်သူ#NV လည်း#PANSU မ#PAVN ရှိ#VST သဖြင့်#COM မိမိ#PRPOS တို့#PAIDNUM ဘာသာ#VAF တီထွင်လုပ်ကိုင်#VCP ကြ#PAVS ရလေ#VAF သည်#POVP ။#SM
+ထို#ADJDEM ခေတ်#NCCS ထိုအခါ#ADVT က#PONOM စံချိန်#NABQ နှင့်#POCOM ကြည့်#VAC သော်#VAF သူတို့#PRL ဖန်တီး#VAC ထား#VAF သော#PAADJC ကာတွန်းရုပ်ရှင်ကားများ#NCLP ၏#POPOS အဆင့်အတန်း#NABQ မှာ#PONOM မ#PAVN နိမ့်ကျ#ADJQ ဟု#VAF သိ#VST ရသည်#POVP ။#SM
+ကာတွန်းပန်းချီပညာ#NABQ ၌#POPLA ဦးဘဂျမ်း#NPR ဤသို့#ADJQ ပြောင်မြောက်ခြင်း#NABQ မှာ#PONOM ပင်ကိုစွမ်းရည်#NCPU ကြောင့်#POREA ဖြစ်#VST သည်#POVP ။#SM
+သင်တန်းများ#NCLP တွင်#POPLA လုံ့လ#NABQ ရှိရှိ#ADVTW ဖြင့်#POREA အစဉ်တစိုက်#ADVC တက်ရောက်သင်ကြား#VAC သည်#POVP ။#SM
+ဂုဏ်ပြု#VAC သောအားဖြင့်#COM မေမေ#NCCS က#PONOM ညီလေး#NCCS ကို#POOBJ ဆုချ#VAC သည်#POVP ။#SM
+ထို့ကြောင့်#COM ပန်းချီလောက#NCPU တွင်#POPLA သူ့#PRO အား#POACC ကြည်ညိုချစ်ခင်သူ#NCCP ပေါများ#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM ၁၉၅၃#CN ခုနှစ်#NABQ အသက်#NABQ ငါးဆယ့်တစ်နှစ်အရွယ်#NCLS တွင်#POT ကွယ်လွန်#VAC သည်#POVP ။#SM
+သူ#PRO ၏#POPOS စွမ်းရည်#NABQ ကို#POOBJ ဂုဏ်ပြု#VAC သောအားဖြင့်#COM နိုင်ငံတော်အစိုးရ#NCLP က#PONOM ၁၉၅၄#CN ခုနှစ်#NABQ တွင်#POT အလင်္ကာကျော်စွာဘွဲ့#NCCS ကို#POOBJ ပေးအပ်ချီးမြှင့်#VCP သည်#POVP ။#SM
+သူ#PRO နေထိုင်#VAC သွား#VAF သော#PAIDNUM ရန်ကုန်မြို့#NPR ၁၃#CN လမ်း#NCCS ကို#POOBJ ဦးဘဂျမ်း#NPR ဟု#VAF ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ထို့အပြင်#COM လမ်းသူလမ်းသားများ#NCLP နှင့်#COW ကာတွန်းဆရာများ#NCLP က#PONOM ဦးဘဂျမ်း#NPR ကို#POOBJ အမှတ်ရ#VAC သောအားဖြင့်#COS နှစ်စဉ်#ADVT ဂုဏ်ပြု#VAC ကြ#PAVS သည်#POVP ။#SM 
+နောက်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+နှစ်ကုန်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+နှစ်လယ်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+နှစ်ဦးပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+လကုန်ပိုင်းတွင်#ADVT အခက်အခဲ#NABQ အမျိုးမျိုး#NCPS နှင့်#POCOM ရင်ဆိုင်#VAC ရ#VAF သည်#POVP ။#SM
+သူ#PRO နေထိုင်#VCP သွား#VAF သော#PAADJC ရန်ကုန်မြို့#NPR ၁၃#CN လမ်း#NCCS ကို#POOBJ ဦးဘဂျမ်းလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဗိုလ်ချုပ်အောင်ဆန်း#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+သူ#PRO နေထိုင်#VCP သွား#VAF သော#PAADJC ထို#PRDEM လမ်း#NCCS ကို#POOBJ ဗိုလ်ချုပ်အောင်ဆန်းလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+အနော်ရထာဘုရင်မင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ အနော်ရထာလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ကျန်စစ်သားမင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ကျန်စစ်သားလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+အလောင်းဘုရားဘုရင်မင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ အလောင်းဘုရားလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဘုရင့်နောင်မင်းမြတ်#NPR ကို#POOBJ ဂုဏ်ပြု#VAC သော#PAADJC အားဖြင့်#COM ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ဘုရင့်နောင်လမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဤ#PRDEM လမ်း#NCCS ကို#POOBJ ဇော်ဂျီလမ်း#NCPS ဟု#PANSU ခေါ်တွင်#VAC စေ#VAF သည်#POVP ။#SM
+ဤ#PRDEM လမ်း#NCCS ၏#POPOS အမည်#NABQ မှာ#PONOM သာယာဝတီမင်းကြီးလမ်း#NPR ဖြစ်သည်#POVP ။#SM
+ဤ#PRDEM လမ်း#NCCS ကို#POOBJ သာယာဝတီမင်းကြီးလမ်း#NPR ဟု#VAF ခေါ်#VAC သည်#POVP ။#SM 
+၎င်း#PRDEM လမ်း#NCCS ၏#POPOS အမည်#NABQ မှာ#PONOM ယောမင်းကြီးလမ်း#NPR ဖြစ်သည်#POVP ။#SM
+ယင်း#PRDEM လမ်း#NCCS ၏#POPOS အမည်#NABQ မှာ#PONOM ခေတ္တာလမ်း#NPR ဖြစ်သည်#POVP ။#SM
+ထို့ကြောင့်#COM လူကြိုက်များ#ADJQ သည်#POVP ။#SM
+သို့သော်#COM အားပေးမှု#NABQ ကို#POOBJ မ#PAVS ရရှိ#VST ခဲ့#PAVP2 ပေ#POVP ။#SM
+သို့ဖြစ်၍#COM အောင်မြင်#ADJQ ခဲ့#PAVP2 သည်#POVP ။#SM
+မောင်မောင်#NPR ကြိုးစား#VAC သဖြင့်#COM အောင်မြင်#ADJQ ခဲ့#PAVP2 သည်#POVP ။#SM 
+အားကုန်ထုတ်#VAC ကာ#COW ကြိုးစား#VAC သောကြောင့်#POREA အောင်မြင်#ADJQ ခဲ့#PAVP2 သည်#POVP ။#SM 
+လူတို့#NCLP နေထိုင်#VAC ရာ#VAF ဤ#ADJDEM လောက#NPR ကို#POOBJ အကျိုးပြု#VST သွား#VAF ခဲ့#PAVP2 သည်#POVP ။#SM
+အများအကျိုး#NABQ ဆောင်ရွက်#VAC ကာ#COW ကိုယ်ကျိုး#NABQ အောင်#VST ခဲ့#PAVP2 လေ#VAF သည်#POVP ။#SM
+၇#CN ယောက်#PRNQ ရှိ#VST သည်#PONOM အနက်#POSEP ၃‌#CN ယောက်#PRNQ မှာ#PONOM မိန်းကလေးများ#NCLP ဖြစ်#VST ကြ#PAVS သည်#POVP ။#SM 
+အနော်ရထာလမ်း#NPR တွင်#POPOS သူ#PRO နေထိုင်#VAC သည်#POVP ။#SM
+သရုပ်ဆောင်များ#NCLP သည်#PONOM ဇာတ်လမ်း#NCCS နှင့်#POCOM ကိုက်ညီ#VST သည်#POVP ။#SM
+ဦးဘဇော်#NPR ၊#SM ဦ်းဘဉာဏ်#NPR ၊#SM ဦးငွေကိုင်#NPR ၊#SM ဦးအုန်းလွင်#NPR စသော#PANSU ပန်းချီကျော်တို့#NCLP ထံ#NCCS မှ#PODEP နည်းနာနိဿယ#NABQ တို့#PAIDNUM ကို#POOBJ လေ့လာဆည်းပူးမှု#NV ပါ#VST သည်#POVP ။#SM
+ပန်းချီအသင်း#NCCS က#PONOM ကြီးမှူးကျင်းပ#VCP သော#PAADJC သင်တန်းများ#NCLP တွင်#POPLA လုံ့လ#NABQ ရှိရှိ#ADVTW ဖြင့်#POREA အစဉ်တစိုက်#ADVC တက်ရောက်သင်ကြားမှု#NV တို့ကြောင့်#POREA လည်း#PANSU ဖြစ်#VST သည်#POVP ။#SM
+ဦးချွန်ဆိုင်#NPR ၁၀တန်း#NCCS ကို#POOBJ နှစ်ချင်းပေါက်#NCPU အောင်မြင်#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM ပန်းချီအနုပညာ#NABQ တိုးတက်ရေး#NV အတွက်#POINT ထို#ADJDEM ပန်းချီအသင်း#NCLP တွင်#POPLA သာမန်အမှုဆောင်#NCCS အဖြစ်#NCPU ဆောင်ရွက်#VAC သည်#POVP ။#SM
+ပန်းချီပညာ#NABQ ဆည်းပူးလိုသူများ#NCLP ကို#POOBJ လည်း#PANSU မြေတောင်မြှောက်ပေး#VST သည့်#PAADJC အနေဖြင့်#NAF ဂရုတစိုက်#ADVM သင်ကြားပြသ#VAC သည်#POVP ။#SM
+တန်ဆောင်မုန်းလ#NPR မီးထွန်းပွဲ#NCCS ကျင်းပ#VAC သည်#POVP ။#SM
+အတွင်းရေးမှူး#NCCS အဖြစ်#NCPU လည်း#PANSU နှစ်#NCCS အတော်ကြာ#ADJQ ဆောင်ရွက်#VAC သည်#POVP ။#SM
+ကာတွန်းရုပ်ပုံကားချပ်များ#NCLP ရေးခြယ်ချိတ်ဆွဲ#VAC ကာ#COW မီးထွန်း#VAC ကြ#PAVS လေ#VAF သည်#POVP ။#SM
+ကိုကို#NPR သည်#PONOM မြေတောင်မြှောက်ပေး#VCP သည့်#PAADJC အနေဖြင့်#NAF ဂရုတစိုက်#ADVM သင်ကြားပြသ#VAC သည်#POVP ။#SM
+ပန်းချီကျော်တို့#NCLP ထံ#NCCS မှ#PODEP နည်းနာနိဿယ#NABQ တို့#PAIDNUM ကို#POOBJ လေ့လာဆည်းပူးမှု#NV ပါ#VST သည်#POVP ။#SM
+ဦးဘဂျမ်း#NPR သည်#PONOM လေးစားအပ်သော#ADJQ ပညာရှင်#NCCS တစ်ဦး#ADJQU ပင်#NAF ဖြစ်#VST သည်#POVP ။#SM
+လွန်ခဲ့သောနှစ်ပေါင်းငါးရာခန့်#ADVT က#POT ပင်#NAF အင်း၀မြို့#NPR မှ#PODEP ရွှေဆက်တော်#NPR သို့#PODIR ဘုရားဖူးများ#NCLP သွား#VAC ခဲ့#PAVP2 ကြ#PAVS သည်#POVP 
+ဘုရားဖူးများ#NCLP အနက်#POSEP ရှင်မဟာရဌသာရ#NPR နှင့်#COW သူ့ဘထွေး#NCCS ၊#SM သူ့ဦးရီးသုံးယောက်သားတို့#NCLP လည်း#PANSU ပါ၀င်#VAC ခဲ့#PAVP2 ကြ#PAVS သည်#POVP ။#SM
+ဘုရားဖူးခရီးသွား#NCCS အကြောင်း#NABQ ကို#POOBJ ရှင်နဟာရဌသာရ#NPR သည်#PONOM လက်ာ#NCCS ဖြင့်#POACC မှတ်တမ်းတင်#VAC ခဲ့#PAVP2 သည်#POVP
+သူ့မှတ်တမ်း#NCCS ဝယ်#POSEP ရွှေစက်တော်သွားလမ်းခရီး#NPR တွင်#POPLA တွေ့ရမြင်ရကြားရသော#ADJQ အကြောင်းကဏ္ဍများ#NCPP ကို#POOBJ စိတ်ဝင်စားဖွယ်#ADVQ ဖွဲ့ဆို#VAC ထား#VAF ခဲ့#PAVP2 ပေ#VAF သည်#POVP
+ရှင်မဟာရဌသာရ#NPR တို့#PAIDNUM သည်#PONOM လမ်းရိုး#NCCS အတိုင်း#POAGR လိုက်သွား#VCP ကြ#PAVS ပေ#VAF သည်#POVP
+တောတောင်များ#NCLP ကို#POOBJ တက်#VAC ကြ#PAVS ရ#VAF သည်#POVP 
+ကမ်းပါးများ#NCCP ကို#POOBJ ပတ်လျောက်#VAF ရ#VAF သည်#POVP
+ကုန်းမြင့်များ#NCCS ကို#POOBJ ကျော်#VAC ရ#VAF သည်#POVP
+ချောင်းကြီးမြောင်းကြီး#NCLS ထဲ#PREP က#POPLA ဖြတ်သန်းသွား#VAC ကြ#PAVS ရ#VAF သည်#POVP 
+တောတောင်လမ်းခရီး#NCCS တစ်လျောက်တွင်#PREP သစ်ပင်ကြီးများ#NCCP ဖြင့်#POREA ဖုံးအုပ်#VST နေ#PAVS သည်#POVP
+အထူးသဖြင့်#ADVQ အင်ကြင်းတောကြီးများ#NCCP ကို#POOBJ ဖြတ်လျောက်#VCP ၍#COW သွား#VAC ရ#VAF သည်#POVP
+တောတာင်#NCCS တစ်လျောက်တွင်#PREP ငှက်မျိုးစုံ#NCLP ကို#POOBJ တွေ့#VAC ရ#VAF သည်#POVP 
+ထို#ADJDEM ငှက်များ#NCLP မှာ#PONOM ဥချိုး#NCCS ၊#SM ဘင်း၀က်#NCCS ၊#SM ငှက်ပြင်း#NCCS ၊#SM သိမ်းကျား#NCCS ၊#SM စွန်ရဲ#NCCS ၊#SM လင်းမှီးဆွဲ#NCCS ၊#SM မြေ၀ပ်#NCCS ၊#SM ဘီလုံး#NCCS ၊#SM တောင်သူဘီး#NCCS ၊#SM တောကျီး#NCCS ၊#SM ခါ#NCCS ၊#SM ဘုတ်တောကြက်#NCCS တို့#PAIDNUM ဖြစ်#VST သည်#POVP ။#SM
+အထူးသဖြင့်#ADVQ လမ်းခရီး#NCCS တစ်လျောက်လုံးတွင်#PREP တောကြက်များ#NCLP ပေါ#VST ပေ#VAF သည်#POVP 
+ညနေဆည်းဆာနေ၀င်ချိန်ခါများ#NABQ တွင်#POT မျောက်များ#NCLP က#PONOM ကြိုးခွေကြိးခွေ#PANG ဟု#VAF အော်သံများ#NCLP ကို#POOBJ ကြား#VAC ရ#VAF သည်#POVP ။#SM 
+ဒေါင်းများ#NCCP က#PONOM အိုးဝေအိုးဝေ#PANG ဟု#NAF ကြွေးကြော်သံများ#NCBQ လည်း#PANSU ကြား#VAC ရ#VAF သည်#POVP
+တတောက်တောက်#PANG တွန်#VAC သွား#VAF သော#PAADJC ငှက်ငနွား#NPR ၏#POPOS အသံ#NABQ ကို#POOBJ လည်း#PANSU ကြား#VAC ရ#VAF ၏#POVP
+တောနက်ချောက်ကြီးများ#NCLP အတွင်းက#PREP ဖြတ်သန်းသွား#NV ကြ#PAVS သော#PAADJC အခါ#ADVT များ#PAIDNUM တွင်#POT သစ်ပင်#NCCS အောက်တွင်#PREP မူးယစ်နေသော#ADJQ သေသောက်ကြူးငှက်#NCCS ကို#POOBJ တွေ့#VAC ရ#VAF သည်#POVP
+တောင်ပေါ်#NCCS သို့#PODIR လှမ်းကြည့်#VAC သောအခါ#COM ဝန်တင်ငှက်#NCCS ကို#POOBJ တွေ့#VST ကြ#PAVS ရ#VAF သည်#POVP
+ပင်တိုင်ပင်ဖျား#NCPS အကြားဆီမှ#PREP ဖိုးခေါင်ဖိုးခေါင်#PANG ဟု#VAF အဆက်မပြတ်#ADVS အော်#VAC နေ#PAVPC သော#PAADJC ဖိုးခေါင်ငှက်#NCCS ၏#POPOS အသံ#NV ကို#POOBJ လည်း#PANSU ကြား#VST ရ#VAF သည်#POVP
+နွယ်တန်း#NCCS ကို#POOBJ လျောက်#VAC ၍#COM တစ်နွယ်#NCCS မှ#PODEP တစ်နွယ်#NCCS ပျံသန်း#VAC ကြ#PAVS သော#PAADJC သစ်တောက်ငှက်#NCCS ၊#SM ငှက်တော်#NCCS ၊#SM ဆက်ရက်များ#NCLP ကို#POOBJ လည်း#PANSU မြင်#VAC ကြ#PAVS ရ#VAF သည်#POVP
+ရံဖန်ရံခါ#ADVT ကျားဟိန်းသံများ#NABQ ကို#POOBJ ကြား#VAC ကြ#PAVS သည်#POVP
+ကျားဟိန်းသံ#NCCS ကြား#VAC ပါက#COM သစ်ကျုတ်#NCCS ၊#SM တောကြောင်#NCCS ၊#SM စွေ့#NCCS ၊#SM ယုန်ကလေးများ#NCLP ပြေးလွှားဖြတ်သန်းသွား#VCP ကြ#PAVS သည်#PANSU ကို#POOBJ မြင်#VAC ရ#VAF သည်#POVP
+ရံဖန်ရံခါ#ADVT ခွေးကျား#NCCS ၊#SM ခွေးရွှေ#NCCS ၊#SM ဝံပုလွေများ#NCLP ကို#POOBJ ပင်#PANSU တွေ့#VAC ရ#VAF သည်#POVP
+ချေဟောက်သံ#NABQ ကို#POOBJ လည်း#PANSU ကြား#VAC ရ#VAF သည်#POVP
+သမင်တောက်သံ#NCCS ကို#POOBJ လည်း#PANSU ကြား#VAC ရ#VAF သည်#POVP
+ဆပ်ပြာစမ်း#NPR တွင်#POPLA ရှင်မဟာရဌသာရတို့#NCLS သည်#PONOM ချိုးလင်းပြာချိုးလင်းပြောက်တို့#NCLP ကို#POOBJ လည်း#PANSU မြင်#VAC ကြ#PAVS သည်#POVP
+အဖိုအမ#NCCP အစုံအစုံ#ADVTW တွန်#VAC ကြ#PAVS မြူး#VAC ကြ#PAVS ပျော်#VAC ကြ#PAVS သည်#PANSU ကို#POOBJ လည်း#PANSU ကြား#VAC ခဲ့#PAVP2 ကြ#PAADJQ သည်#POVP
+ဆပ်ပြာစမ်း#NCCS မှ#PODEP သည်#PONOM တစ်ကုန်း#NCCS ကို#POOBJ တက်#VAC ၍#COW တစ်ကုန်း#NCCS ကို#POOBJ ဆင်း#VAC ခဲ့#PAVP2 ရ#VAF သည်#POVP
+တောကြီးများ#NCLP က#PONOM နက်#VST သည်#POVP ထက်#PADNUM သာ၍#PADNUM နက်#VST လာ#ADVC ပေ#VAF သည်#POVP ။#SM 
+တစ်တော#NCLS ကို#POOBJ ဝင်#VAC ၍#COM တစ်တော#NCLS ကို#POOBJ ထွက်#VAC ကြ#PAVS ရ#VAF သည်#POVP 
+တစ်တောင်#NCLS ကို#POOBJ မြင်#VST ၍#COM တစ်တောင်#NCLS ကို#POOBJ တက်#VAC ကြ#PAVS ရ#VAF သည်#POVP 
+တစ်ပင်အရိပ်#NCLS တွင်#POPLA နား#VAC ၍#COS တစ်ပင်အရိပ်#NCLS သို့#POARR ကူး#VAC ကြ#PAVS ရ#VAF သည်#POVP
+တောလမ်းခရီး#NCLS ကို#POOBJ စူးစမ်းရှာဖွေ#VCP ၍#COS အရိပ်အခြည်#NABQ ကြည့်#VAC ကာ#COS ဆွေးနွေးတိုင်ပင်#VAC လျက်#COS ခရီးသွား#VAC ခဲ့#PAVP2P ကြ#PAVS ရ#VAF သည်#POVP
+ပင်ပင်ပန်းပန်း#ADVC သတိဝီရိ#NABQ ဖြင့်#POACC သွား#VAC ခဲ့#PAVP2P ကြ#PAVS သော#PAADJC ရှင်မဟာရဌသာရတို့#NCLP တူဝရီးသုံးယောက်သား#NCLP သည်#POOBJ အောက်စက်တော်ရာအထက်စက်တော်ရာ#NPR သို့#POARR ဆိုက်ဆိုက်မြိုက်မြိုက်#ADVC ဘုရားဖူးရောက်#VST ခဲ့#PAVP2P ကြ#PAVS ပေ#VAF သည်#POVP 
+ရှင်မဟာရဌသာရ#NPR သည်#PONOM အထက်ပါ#PRDEM မှတ်တမ်းတင်ခဲ့#PAVP2P သော#PAADJC ခရီးသွားမှတ်တမ်း#NCCS ကား#PONOM အောင်ဇေရတုချီရွှေစက်တော်သွားတောလား#NPR ဖြစ်#VST ပေ#VAF သတည်း#POVP
+တိရစ္ဆာန်မျိုးစုံ#NCLP ၏#POPOS အသံများ#NCCS ကို#POOBJ ကြား#VAC ရ#VAF သည်#POVP ။#SM
+အတွေ့အကြုံအသစ်များ#NCLS ကို#POOBJ တွေ့ရှိခံစား#VCP ရ#VAF သည်#POVP ။#SM 
+လမ်းခရီး#NCCS ခက်ခဲကြမ်းတမ်း#VST သည့်#PAADJC ကြားကပင်#ADVC ဘုရားဖူးသွား#VAC ခဲ့#PAVP2P သည်#POVP ။#SM
+သဘာဝတရားကြီး#NCCS ၏#POPOS အလှတရား#NCCS မှာ#PONOM ရှုမငြီးနိုင်#VST အောင်#PANSU ပင်#VAF  သာယာလှပ#VST သည်#POVP ။#SM
